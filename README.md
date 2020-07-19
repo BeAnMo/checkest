@@ -1,6 +1,6 @@
-# Check-Mate
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/BeAnMo/check-mate)
 
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/BeAnMo/check-mate)
+# Check-Mate
 
 ##### Simple, composable, dependency free data validator.
 
