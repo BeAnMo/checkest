@@ -4,7 +4,7 @@ export default {
     input: 'src/index.js',
     output: [
         {
-            file: 'dist/check-mate.js',
+            file: 'dist/checkest.js',
             format: 'cjs'
         },
     ],
